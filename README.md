@@ -31,7 +31,7 @@ The Power BI dashboard presents interactive visualisations showing power consump
 
 ## Dashboard Preview
 
-![Power Consumption Dashboard](Power_Consumption_Dashboard.png)
+![Power Consumption Dashboard](Power_Consumption_Dashboard.png.png)
 
 ## Files
 
