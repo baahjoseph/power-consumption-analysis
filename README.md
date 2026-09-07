@@ -29,6 +29,10 @@ Research also supports examining temperature alongside electricity demand, as te
 
 The Power BI dashboard presents interactive visualisations showing power consumption patterns across the three areas and changes in average temperature over the year.
 
+## Dashboard Preview
+
+![Power Consumption Dashboard](Power_Consumption_Dashboard.png)
+
 ## Files
 
 * `powerconsumption` — Excel dataset used for the analysis
